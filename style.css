@@ -79,7 +79,7 @@ html{
 
 #home::before{
     content: "";
-    background: url("../Images/123.webp") no-repeat center center/cover;
+    background: url("Images/123.webp") no-repeat center center/cover;
     opacity: 0.8;
     position: absolute;
     top: 0px;
